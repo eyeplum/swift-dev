@@ -23,6 +23,10 @@ After the build finishes, you can start a new container using:
 docker run -it --privileged eyeplum/swift-dev /bin/bash
 ```
 
+## Known Issues
+
+- Swift REPL seems broken after updated to the latest development snapshot(2016-03-24-a)
+
 ## Acknowledgement
 
 The `Dockerfile` is inspired by [this blog](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/) from Swift@__IBM__.

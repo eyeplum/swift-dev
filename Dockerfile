@@ -1,4 +1,5 @@
 FROM ubuntu:15.10
+MAINTAINER Yan Li<eyeplum@gmail.com>
 
 # Latest Swift Version 
 ENV SWIFT_BRANCH development

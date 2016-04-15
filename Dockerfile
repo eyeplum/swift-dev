@@ -11,7 +11,7 @@ RUN apt-get update && \
     apt-get install -y \
         clang \
         libxml2 \
-        libicu55 \
+        libicu \
         libpython2.7 \
         wget && \
     apt-get clean && \

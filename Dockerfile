@@ -1,10 +1,10 @@
-FROM ubuntu:15.10
+FROM ubuntu:14.04
 MAINTAINER Yan Li<eyeplum@gmail.com>
 
 # Latest Swift Version 
 ENV SWIFT_BRANCH development
-ENV SWIFT_VERSION swift-DEVELOPMENT-SNAPSHOT-2016-03-24-a
-ENV SWIFT_PLATFORM ubuntu15.10
+ENV SWIFT_VERSION swift-DEVELOPMENT-SNAPSHOT-2016-04-12-a
+ENV SWIFT_PLATFORM ubuntu14.04
 
 # Install Dependencies
 RUN apt-get update && \

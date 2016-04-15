@@ -6,7 +6,7 @@ Swift docker container for running the latest Swift development snapshot on Ubun
 
 This is a repo for hosting docker automated build.
 
-The result docker image is based on Ubuntu 15.10 with the latest open source Swift development snapshot installed.
+The result docker image is based on Ubuntu 14.04 with the latest open source Swift development snapshot installed.
 
 ## Howto
 

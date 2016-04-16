@@ -10,10 +10,12 @@ ENV SWIFT_PLATFORM ubuntu14.04
 RUN apt-get update && \
     apt-get install -y \
         clang \
+        cmake \
         libedit2 \
         libxml2 \
         libicu52 \
         libpython2.7 \
+        ninja-build \
         wget && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*

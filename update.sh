@@ -1,3 +1,3 @@
 git add -A \
-  && git commit -m "$(git log --pretty=format:"%s" HEAD^..HEAD)" \
+  && git commit -m "Update Swift snapshot to the latest version" \
   && git push

@@ -1,9 +1,9 @@
 # swift-dev
-Docker image for running the latest Swift development snapshot in a Ubuntu 14.04 container.
+Docker image for running the latest Swift development snapshot in a Ubuntu 16.04 container.
 
 ## About
 
-The docker image is based on Ubuntu 14.04 with the latest open source Swift development snapshot installed.
+The docker image is based on Ubuntu 16.04 with the latest open source Swift development snapshot installed.
 
 ## Use this image to play with Swift
 

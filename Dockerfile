@@ -13,7 +13,7 @@ RUN apt-get update && \
         cmake \
         libedit2 \
         libxml2 \
-        libicu52 \
+        libicu55 \
         libpython2.7 \
         ninja-build \
         wget && \

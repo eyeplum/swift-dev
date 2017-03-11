@@ -3,7 +3,7 @@ MAINTAINER Yan Li<eyeplum@gmail.com>
 
 # Latest Swift Version
 ENV SWIFT_BRANCH development
-ENV SWIFT_VERSION swift-DEVELOPMENT-SNAPSHOT-2017-03-03-a
+ENV SWIFT_VERSION swift-DEVELOPMENT-SNAPSHOT-2017-03-10-a
 ENV SWIFT_PLATFORM ubuntu16.04
 
 # Install Dependencies
